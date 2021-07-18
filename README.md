@@ -9,7 +9,7 @@
 </p> -->
 
 <p class="aligncenter">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Me:
