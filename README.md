@@ -9,11 +9,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Sublime's custom image"/>
-</p>
-
-<p class="aligncenter">
-<img align="center" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="..."/>
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Me:
