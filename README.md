@@ -26,5 +26,5 @@
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="80" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/> 
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
-      <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="aws" width="60" height="50"/> 
+      <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="aws" width="80" height="50"/> 
 </p>
