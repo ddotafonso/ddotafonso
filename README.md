@@ -14,9 +14,9 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Me:
 - 🏦 Working as **SRE** for **Ably Realtime**
-      <img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="50">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+      <img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="50">.
 - 📝 Currently learning **Ruby**, **JavaScript** and **Flutter**.
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
