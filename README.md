@@ -8,7 +8,9 @@
 <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p> -->
 
+<p class="aligncenter">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Me:
 - 🏦 Working as SRE working for Ably Realtime 
