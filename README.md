@@ -24,7 +24,7 @@
       <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js" width="50" height="50"/>
       <img src="https://seeklogo.com/images/T/terraform-logo-99AE26A4C1-seeklogo.com.png" alt="terraform" width="50" height="50"/> 
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="80" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="GIT" width="95" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/> 
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="95" height="50"/> 
 </p>
