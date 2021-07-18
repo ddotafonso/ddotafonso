@@ -13,7 +13,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Me:
-- 🏦 Working as **SRE** working for **Ably Realtime 
+- 🏦 Working as **SRE** working for **Ably Realtime**
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 Currently learning **Ruby, JavaScript and Flutter.
 
