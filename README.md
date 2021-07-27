@@ -16,7 +16,7 @@
     <a href=https://www.python.org/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/></a>
     <a href=https://www.djangoproject.com/><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="60" height="30"/></a>
     <a href=https://developer.mozilla.org/en-US/docs/Web/javascript><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js" width="35" height="35"/></a>
-    <a href=https://www.terraform.io/docs/index.html><img src="https://seeklogo.com/images/T/terraform-logo-99AE26A4C1-seeklogo.com.png" alt="terraform" width="40" height="40"/</a>
+    <a href=https://www.terraform.io/docs/index.html><img src="https://seeklogo.com/images/T/terraform-logo-99AE26A4C1-seeklogo.com.png" alt="terraform" width="35" height="40"/</a>
     <a href=https://www.docker.com/><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="35"/></a>
     <a href=https://git-scm.com/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="35" height="35"/></a>
     <a href=https://azure.microsoft.com/en-gb/><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/></a>
