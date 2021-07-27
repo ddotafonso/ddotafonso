@@ -13,7 +13,9 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">.
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
+  <a href=https://google.com>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
+    </a>
       <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="90" height="50"/>
       <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js" width="50" height="50"/>
       <img src="https://seeklogo.com/images/T/terraform-logo-99AE26A4C1-seeklogo.com.png" alt="terraform" width="50" height="50"/> 
