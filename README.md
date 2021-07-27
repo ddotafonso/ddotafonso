@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href=https://www.python.org/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/></a>
-    <a href=https://www.djangoproject.com/><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="50" height="20"/></a>
+    <a href=https://www.djangoproject.com/><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="60" height="30"/></a>
     <a href=https://developer.mozilla.org/en-US/docs/Web/javascript><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js" width="50" height="50"/></a>
     <a href=https://www.terraform.io/docs/index.html><img src="https://seeklogo.com/images/T/terraform-logo-99AE26A4C1-seeklogo.com.png" alt="terraform" width="50" height="50"/</a>
     <a href=https://www.docker.com/><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="80" height="65"/></a>
