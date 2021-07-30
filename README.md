@@ -11,6 +11,8 @@
       <a href=https://ably.com/><img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="60"></a>.
 - 📝 Currently learning **Ruby** and **Flutter**
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">.
+<br />
+<br />
 
 <p align="center">
     <a href=https://www.python.org/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/></a>
