@@ -3,6 +3,7 @@
 <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hey! Nice to see you.</h1>
  </div>
 
+<div>
 <p align='left'>
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="..."width="380" height="230"/>
 </p>
@@ -13,6 +14,7 @@
       <a href=https://ably.com/><img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="60"></a>.
 - 📝 Currently learning **Ruby** and **Flutter**
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">.
+</div>
 
 <p align="center">
     <a href=https://www.python.org/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/></a>
