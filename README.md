@@ -4,7 +4,7 @@
  </div>
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="..." align=left width="400"/>
-<a href="https://www.linkedin.com/in/dimbu-afonso-894977a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="10" width="10" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/dimbu-afonso-894977a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15" width="15" /></a>&nbsp;
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> Me:
 - 🏦 Working as **SRE** for **Ably Realtime** <a href=https://ably.com/><img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="60"></a>.
