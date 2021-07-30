@@ -8,7 +8,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px"> Me:
 - 🏦 Working as **SRE** for **Ably Realtime** <a href=https://ably.com/><img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="50"></a>.
-- 📝 Currently learning **Ruby** and **Flutter** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">.
+- 📝 Currently learning **Ruby** and **Flutter** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">.
 <br />
 <br />
 <br />
