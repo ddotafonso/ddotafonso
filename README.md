@@ -12,10 +12,6 @@
 - 📝 Currently learning **Ruby** and **Flutter** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">.
 - 🌱 Currently implementing different [Data Structure and Algorithms in JavaScript](https://github.com/ddotafonso/CodeCabinet/tree/main/Data-Structures_and_Algorithms)
 
-<hr>
-
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -32,3 +28,5 @@
     <a href=https://aws.amazon.com/?nc2=h_lg><img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="aws" width="55" height="40"/></a>
 </p>
 </div>
+     
+<hr>
