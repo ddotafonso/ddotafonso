@@ -5,7 +5,7 @@
 
 <div>
 <p align='left'>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="..."width="380" height="230"/>
+<img style="vertical-align:middle" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="..."width="380" height="230"/>
 </p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Me:
