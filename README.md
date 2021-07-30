@@ -3,7 +3,7 @@
 <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hey! Nice to see you.</h1>
  </div>
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="..." align=left width="380"/>&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="..." align=left width="380"/>
 <a href="https://www.linkedin.com/in/dimbu-afonso-894977a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15" width="15" /></a>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Me:
