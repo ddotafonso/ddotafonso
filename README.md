@@ -14,6 +14,7 @@
 <br />
 <br />
 
+<div>
 <p align="center">
     <a href=https://www.python.org/><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/></a>
     <a href=https://www.djangoproject.com/><img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="60" height="30"/></a>
@@ -24,3 +25,4 @@
     <a href=https://azure.microsoft.com/en-gb/><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/></a>
     <a href=https://aws.amazon.com/?nc2=h_lg><img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="aws" width="55" height="40"/></a>
 </p>
+</div>
