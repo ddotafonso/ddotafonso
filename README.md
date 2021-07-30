@@ -1,5 +1,7 @@
 
+<div align="center">
 <h1><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Hey! Nice to see you.</h1>
+ </div>
 
 <p align="right">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="..."/>
