@@ -24,7 +24,7 @@
     <a href=https://www.docker.com/><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50/></a>
     <a href=https://git-scm.com/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="35" height="35"/></a>
     <a href=https://azure.microsoft.com/en-gb/><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="35" height="35"/></a>
-    <a href=https://aws.amazon.com/?nc2=h_lg><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="65" height="50"/></a>
+    <a href=https://aws.amazon.com/?nc2=h_lg><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="75" height="50"/></a>
 </p>
 </div>
      
