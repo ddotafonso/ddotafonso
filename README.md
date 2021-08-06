@@ -7,7 +7,7 @@
 
 <a href="https://www.linkedin.com/in/dimbu-afonso-894977a8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="15" width="15" /></a>
 
-#### <img src="https://raw.githubusercontent.com/ddotafonso/ddotafonso/main/Assets/Developer.gif" width="30px"> Me:
+#### <img src="https://github.com/ddotafonso/ddotafonso/blob/main/Assets/Developer.gif" width="30px"> Me:
 - 🏦 Working as **SRE** for **Ably Realtime** <a href=https://ably.com/><img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="50"></a>.
 - 📝 Currently learning **Ruby** and **Flutter** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">.
 - 🌱 Currently implementing different [Data Structures and Algorithms in JavaScript](https://github.com/ddotafonso/CodeCabinet/tree/main/Data-Structures_and_Algorithms)
