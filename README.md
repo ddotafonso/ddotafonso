@@ -10,7 +10,7 @@
 #### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> Me:
 - 🏦 Working as **SRE** for **Ably Realtime** <a href=https://ably.com/><img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="50"></a>.
 - 📝 Currently learning **Ruby** and **Flutter** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">.
-- 🌱 Currently implementing different [Data Structure and Algorithms in JavaScript](https://github.com/ddotafonso/CodeCabinet/tree/main/Data-Structures_and_Algorithms)
+- 🌱 Currently implementing different [Data Structures and Algorithms in JavaScript](https://github.com/ddotafonso/CodeCabinet/tree/main/Data-Structures_and_Algorithms)
 
 <br />
 <br />
