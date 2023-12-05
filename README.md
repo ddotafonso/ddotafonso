@@ -9,7 +9,7 @@
 
 #### <img src="https://github.com/ddotafonso/ddotafonso/blob/main/Assets/Developer.gif" width="30px"> Me:
 - 🏦 Working as **SRE** for **Ably Realtime** <a href=https://ably.com/><img src="https://www.vectorlogo.zone/logos/ablyio/ablyio-ar21.svg" width="50"></a>.
-- 📝 Interested in **Python, Ruby and Go and WebDev** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">.
+- 📝 Interested in **Python, Ruby, Go and WebDev** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">.
 - 🌱 Currently implementing different [Data Structures and Algorithms in JavaScript](https://github.com/ddotafonso/CodeCabinet/tree/main/Data-Structures_and_Algorithms)
 
 <br />
